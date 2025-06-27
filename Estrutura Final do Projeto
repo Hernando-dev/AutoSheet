@@ -1,0 +1,21 @@
+/excel-automation-dashboard/
+│
+├── planilhas/
+│   └── vendas_brutas.xlsx       ← Planilha exemplo (crie uma ou adicione manualmente)
+│
+├── output/
+│   └── .gitkeep                 ← Para manter a pasta no Git
+│
+├── dashboards/
+│   └── dashboard.py             ← Dashboard web com Streamlit
+│
+├── scripts/
+│   ├── limpar_dados.py
+│   ├── aplicar_formulas.py
+│   ├── formatar_planilha.py
+│   ├── gerar_grafico_excel.py
+│   └── main.py
+│
+├── .gitignore
+├── README.md
+└── requirements.txt
